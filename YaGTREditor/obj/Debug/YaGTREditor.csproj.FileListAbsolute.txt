@@ -1,0 +1,1 @@
+c:\users\smith\documents\visual studio 2015\Projects\YaGTREditor\YaGTREditor\bin\Debug\YaGTREditor.exe.config
